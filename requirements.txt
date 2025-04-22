@@ -1,0 +1,4 @@
+streamlit==1.33.0
+firebase-admin==6.2.0
+selenium==4.19.0
+webdriver-manager==4.0.1
